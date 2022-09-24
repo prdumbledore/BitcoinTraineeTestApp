@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/CryptoListFragment">
+
+    <fragment
+        android:id="@+id/CryptoListFragment"
+        android:name="com.eriksargsyan.bitcointraineetestapp.view.cryptoList.CryptoListFragment"
+        android:label="@string/crypto_list_label"
+        tools:layout="@layout/crypto_list_fragment">
+
+        <action
+            android:id="@+id/action_CryptoListFragment_to_CryptoDetailsFragment"
+            app:destination="@id/CryptoDetailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/CryptoDetailsFragment"
+        android:name="com.eriksargsyan.bitcointraineetestapp.view.cryptoDetails.CryptoDetailsFragment"
+        android:label="@string/crypto_details_label"
+        tools:layout="@layout/crypto_details_fragment">
+
+        <action
+            android:id="@+id/action_CryptoDetailsFragment_to_CryptoListFragment"
+            app:destination="@id/CryptoListFragment" />
+        <argument
+            android:name="crypto_id"
+            android:defaultValue=""
+            app:argType="string" />
+        <argument
+            android:name="crypto_name"
+            android:defaultValue=""
+            app:argType="string" />
+    </fragment>
+</navigation>
