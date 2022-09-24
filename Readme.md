@@ -22,8 +22,8 @@
 
 ## App Screenshots
 <div align="center">
-<img src="https://github.com/prdumbledore/BitcoinTraineeTestApp/blob/master/Screens/screen_1.png" width="270" height="555">
-<img src="https://github.com/prdumbledore/BitcoinTraineeTestApp/blob/master/Screens/screen_2.png" width="270" height="555">
-<img src="https://github.com/prdumbledore/BitcoinTraineeTestApp/blob/master/Screens/screen_3.png" width="270" height="555">
-<img src="https://github.com/prdumbledore/BitcoinTraineeTestApp/blob/master/Screens/screen_4.png" width="270" height="555">
+<img src="https://github.com/prdumbledore/BitcoinTraineeTestApp/raw/master/Screens/Screen1.png" width="270" height="480">
+<img src="https://github.com/prdumbledore/BitcoinTraineeTestApp/raw/master/Screens/Screen2.png" width="270" height="480">
+<img src="https://github.com/prdumbledore/BitcoinTraineeTestApp/raw/master/Screens/Screen3.png" width="270" height="480">
+<img src="https://github.com/prdumbledore/BitcoinTraineeTestApp/raw/master/Screens/Screen4.png" width="270" height="480">
 </div>
