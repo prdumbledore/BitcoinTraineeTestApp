@@ -14,6 +14,14 @@
 + Dependency Injection and Server Verification
 + Repeat the same steps for the second fragment
 
+## Estimated implementation time
+
+2 days per 6 hours
+
+## Real time implementation
+
+2 days per 8 hours
+
 ## Used framework
 
 + Retrofit
@@ -26,4 +34,6 @@
 <img src="https://github.com/prdumbledore/BitcoinTraineeTestApp/raw/master/Screens/Screen2.png" width="270" height="480">
 <img src="https://github.com/prdumbledore/BitcoinTraineeTestApp/raw/master/Screens/Screen3.png" width="270" height="480">
 <img src="https://github.com/prdumbledore/BitcoinTraineeTestApp/raw/master/Screens/Screen4.png" width="270" height="480">
+<img src="https://github.com/prdumbledore/BitcoinTraineeTestApp/raw/master/Screens/Screen5.png" width="270" height="480">
+<img src="https://github.com/prdumbledore/BitcoinTraineeTestApp/raw/master/Screens/Screen6.png" width="270" height="480">
 </div>
